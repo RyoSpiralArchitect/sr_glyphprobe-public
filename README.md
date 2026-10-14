@@ -39,12 +39,14 @@ semantic validity, nor a mechanism for ordinary generated responses.
 
 This is a revised preprint incorporating reviewer feedback from the NeurIPS
 2026 workshop **Interpretability as a Science (InterpScience)**. It is not an
-accepted workshop or proceedings paper. Zenodo DOI **`10.5281/zenodo.23376699`
-is reserved; registration and public deposit are not yet asserted here**.
-The new curated repository `sr_glyphprobe-public` is prepared for publication;
-this status paragraph will be updated after external publication is verified.
-The package manifests record pre-publication preparation and remain distinct
-from subsequently verified live publication metadata.
+accepted workshop or proceedings paper. **Version 1.0.0 was published as an open
+preprint on October 15, 2026**:
+[Zenodo record and DOI `10.5281/zenodo.23376699`](https://zenodo.org/records/23376699).
+The [curated GitHub repository](https://github.com/RyoSpiralArchitect/sr_glyphprobe-public)
+is public; the original source-history repository remains private.
+The immutable versioned package retains its pre-publication preparation wording
+and manifests unchanged. Those records describe preparation, while this live
+README and the Zenodo record report the subsequently verified publication.
 
 ## Evidence and replay
 
